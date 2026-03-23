@@ -1,0 +1,6 @@
+INSERT INTO books (Book_name, Genre, Price, Date_of_release) VALUES
+('Harry Potter', 'Fantasy', 9.99, '2016-05-10'),
+('The Hunger Games', 'Sci-fi', 5.99, '2013-03-26'),
+('The Silent Patient', 'Thriller', 7.50, '2019-02-05'),
+('Atomic Habits', 'Self-help', 11.99, '2018-10-16'),
+('The Hobbit', 'Fantasy', 8.25, '2012-09-21');

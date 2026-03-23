@@ -1,0 +1,7 @@
+CREATE TABLE books (
+    Book_id INT AUTO_INCREMENT PRIMARY KEY,
+    Book_name VARCHAR(100),
+    Genre VARCHAR(20),
+    Price FLOAT,
+    Date_of_release DATE
+);
